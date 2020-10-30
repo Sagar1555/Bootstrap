@@ -1,0 +1,33 @@
+.container{
+	border: 5px solid black;
+}
+.row{
+	border: 3px solid red;
+}
+.pink{
+	background: pink;
+	font-size: 20px;
+}
+.orange{
+	background: orange;
+	font-size: 40px;
+}
+.blue{
+	background: #007bff;
+
+}
+.green{
+	background: yellowgreen;
+}
+
+.black{
+	background: purple;
+	font-size: 25px;
+}
+
+.gray{
+	background: gray;
+}
+.cyan{
+	background: darkturquoise;
+}
